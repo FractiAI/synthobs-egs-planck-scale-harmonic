@@ -17,8 +17,8 @@ Artifacts rewritten:
 
 | Experiment | Required |
 |------------|----------|
-| E1–E7 | `pass: true` each |
-| Suite | `results.all_pass: true` |
+| E1–E9 | `pass: true` each |
+| Suite | `results.all_pass: true` (9/9) |
 
 ## Honesty
 
