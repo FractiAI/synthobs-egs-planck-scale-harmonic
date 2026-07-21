@@ -140,6 +140,8 @@ Expected: `"passed": "9/9"`, exit code `0`.
 | **Catalog mirror** | https://github.com/FractiAI/psw.vibelandia.sing13 |
 | **Whitepaper surface** | https://www.ssvibelandiaquestfest24x365.com/whitepaper/synthobs-egs-planck-scale-harmonic |
 | **Sister (EGS-NLRF)** | https://github.com/FractiAI/egs-nlrf |
+| **Sister (Nested Agent Lattice)** | https://www.ssvibelandiaquestfest24x365.com/whitepaper/omniversal-nested-agent-lattice |
+| **Sister (Chromosomal / cytographic LC)** | https://www.ssvibelandiaquestfest24x365.com/whitepaper/synthobs-chromosomal-electrodynamics |
 
 ---
 
