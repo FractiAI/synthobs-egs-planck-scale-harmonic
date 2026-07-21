@@ -1,0 +1,19 @@
+{
+  "name": "synthobs-egs-planck-scale-harmonic",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Planck 1.6 ↔ Φ_EGS scale-harmonic bridge — clutch, singularity clamp, empirical suite (SynthOBS / FractiAI)",
+  "type": "module",
+  "engines": {
+    "node": ">=18.18.0"
+  },
+  "scripts": {
+    "research": "node scripts/run_empirical_pipeline.mjs",
+    "test": "node scripts/run_empirical_pipeline.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FractiAI/synthobs-egs-planck-scale-harmonic.git"
+  },
+  "license": "MIT"
+}
